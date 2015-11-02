@@ -5,7 +5,8 @@
     "name": "Climate Indicator",
     "images": [{
         "name": "Precipitation Change",
-        "source": "maps/Health_Indicators_PrecipChange.jpg",
+        "source": "maps/Health_Indicators_PrecipChange.png",
+        "legend": "maps/Health_Indicators_PrecipChange_legend.png",
         "default": true
       }
     ]
@@ -15,13 +16,16 @@
     "type": "radio",
     "images": [{
         "name": "Chicken Inventory",
-        "source": "maps/Broilers_inventory_sqmi_2012.png"
+        "source": "maps/Broilers_inventory_sqmi_2012.png",
+        "legend": "maps/Broilers_inventory_sqmi_2012_legend.png"
       }, {
         "name": "Cattle Inventory",
-        "source": "maps/Cattle_inventory_sq_mi_2012.png"
+        "source": "maps/Cattle_inventory_sq_mi_2012.png",
+        "legend": "maps/Cattle_inventory_sq_mi_2012_legend.png"
       }, {
-        "name": "Poultry Farms",
-        "source": "maps/Poultry_farms_sqmi_2012.png",
+        "name": "Pig Inventory",
+        "source": "maps/HogsPigs_number_sqmi_2012.png",
+        "legend": "maps/Poultry_farms_sqmi_2012_legend.png",
         "default": true
       }
     ]
