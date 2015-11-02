@@ -15,15 +15,15 @@
     "name": "Agricultural Indicator",
     "type": "radio",
     "images": [{
-        "name": "Chicken Inventory",
+        "name": "Number of Broilers and Meat-type Chickens Per Square Mile (2012)",
         "source": "maps/Broilers_inventory_sqmi_2012.png",
         "legend": "maps/Broilers_inventory_sqmi_2012_legend.png"
       }, {
-        "name": "Cattle Inventory",
+        "name": "Number of Cattle and Calves Per Square Mile (2012)",
         "source": "maps/Cattle_inventory_sq_mi_2012.png",
         "legend": "maps/Cattle_inventory_sq_mi_2012_legend.png"
       }, {
-        "name": "Pig Inventory",
+        "name": "Number of Hogs and Pigs Per Square Mile (2012)",
         "source": "maps/HogsPigs_number_sqmi_2012.png",
         "legend": "maps/HogsPigs_number_sqmi_2012_legend.png",
         "default": true
