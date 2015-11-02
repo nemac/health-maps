@@ -25,7 +25,7 @@
       }, {
         "name": "Pig Inventory",
         "source": "maps/HogsPigs_number_sqmi_2012.png",
-        "legend": "maps/Poultry_farms_sqmi_2012_legend.png",
+        "legend": "maps/HogsPigs_number_sqmi_2012_legend.png",
         "default": true
       }
     ]
