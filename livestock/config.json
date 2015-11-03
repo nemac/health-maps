@@ -12,7 +12,7 @@
     ]
   },
   "rightSelector": {
-    "name": "Agricultural Indicator",
+    "name": "Locations of Livestock and Projections of Heavy Precipitation",
     "type": "radio",
     "images": [{
         "name": "Number of Broilers and Meat-type Chickens Per Square Mile (2012)",
