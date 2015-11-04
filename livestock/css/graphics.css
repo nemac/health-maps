@@ -30,6 +30,10 @@
     width: 32.5%;
 }
 
+.nem-mcw-container .nem-mcw-button-fourth {
+    width: 24.2%;
+}
+
 .nem-mcw-container form label.on {
     background: #fe495a;
     color: #fff;
@@ -60,6 +64,11 @@
     position: relative;
     height: 100%;
     margin-bottom: 10px;
+}
+
+.nem-mcw-container img {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .nem-mcw-container .image-slider img:first-child {
