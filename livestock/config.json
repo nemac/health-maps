@@ -24,7 +24,7 @@
         "source": "maps/Cattle_inventory_sq_mi_2012.png",
         "legend": "maps/Cattle_inventory_sq_mi_2012_legend.png"
       }, {
-        "name": "Pigs Per Square Mile",
+        "name": "Hogs Per Square Mile",
         "source": "maps/HogsPigs_number_sqmi_2012.png",
         "legend": "maps/HogsPigs_number_sqmi_2012_legend.png"
       }
