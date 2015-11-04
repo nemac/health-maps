@@ -2,7 +2,7 @@
   "defaultSlidePosition": 0,
   "type": "fade",
   "leftSelector": {
-    "name": "Locations of Livestock and Projections of Heavy Precipitation",
+    "name": "Projected Changes of Temperature and Precipitation",
     "type": "radio",
     "images": [{
         "name": "2021-2050",
