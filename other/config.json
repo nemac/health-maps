@@ -1,0 +1,24 @@
+{
+  "defaultSlidePosition": 0,
+  "type": "fade",
+  "leftSelector": {
+    "name": "Other Projections",
+    "type": "radio",
+    "images": [{
+        "name": "Hottest Day",
+        "source": "maps/ProjectedChange_HottestDay.png",
+        "default": true
+
+      },{
+        "name": "Coldest Night",
+        "source": "maps/ProjectedChange_ColdestNight.png"
+      },{
+        "name": "Number of Days",
+        "source": "maps/ProjectedChange_DrySpell.png"
+      },{
+        "name": "Wettest Day",
+        "source": "maps/ProjectedChange_WettestDay.png"
+      }
+    ]
+  }
+}
