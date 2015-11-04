@@ -2,9 +2,12 @@
     font-family: "Roboto", "Helevtica", "Arial", sans-serif;
 }
 
+.nem-mcw-container form {
+    margin-bottom: 10px !important;
+}
+
 .nem-mcw-container form label {
     box-sizing: border-box;
-    width: 32.5%;
     display: inline-block;
     text-align: center;
     cursor: pointer;
@@ -17,6 +20,14 @@
 
 .nem-mcw-container form label:last-child {
     margin-right: 0%;
+}
+
+.nem-mcw-container .nem-mcw-button-half {
+    width: 49.4%;
+}
+
+.nem-mcw-container .nem-mcw-button-third {
+    width: 32.5%;
 }
 
 .nem-mcw-container form label.on {
@@ -58,6 +69,6 @@
 .nem-mcw-container div.fader {
     top: inherit;
     left: inherit;
-    right: 25px;
-    bottom: 25px;
+    right: 10px;
+    bottom: 0px;
 }
