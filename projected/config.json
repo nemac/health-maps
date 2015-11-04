@@ -1,0 +1,17 @@
+{
+  "defaultSlidePosition": 0,
+  "type": "fade",
+  "leftSelector": {
+    "name": "Locations of Livestock and Projections of Heavy Precipitation",
+    "type": "radio",
+    "images": [{
+        "name": "2021-2050",
+        "source": "maps/ProjectedChange_2021-2050.png",
+        "default": true
+      },{
+        "name": "2041-2070",
+        "source": "maps/ProjectedChange_2041-2070.png"
+      }
+    ]
+  }
+}
