@@ -17,7 +17,8 @@
     "images": [{
         "name": "Chickens Per Square Mile",
         "source": "maps/Broilers_inventory_sqmi_2012.png",
-        "legend": "maps/Broilers_inventory_sqmi_2012_legend.png"
+        "legend": "maps/Broilers_inventory_sqmi_2012_legend.png",
+        "default": true
       }, {
         "name": "Cattle Per Square Mile",
         "source": "maps/Cattle_inventory_sq_mi_2012.png",
@@ -25,8 +26,7 @@
       }, {
         "name": "Pigs Per Square Mile",
         "source": "maps/HogsPigs_number_sqmi_2012.png",
-        "legend": "maps/HogsPigs_number_sqmi_2012_legend.png",
-        "default": true
+        "legend": "maps/HogsPigs_number_sqmi_2012_legend.png"
       }
     ]
   }
