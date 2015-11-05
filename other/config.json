@@ -2,22 +2,21 @@
   "defaultSlidePosition": 0,
   "type": "fade",
   "leftSelector": {
-    "name": "Other Projections",
+    "name": "Projected Changes in the Hottest/Coldest and Wettest/Driest Day of the Year",
     "type": "radio",
     "images": [{
-        "name": "Hottest Day",
+        "name": "Hottest Day of the Year",
         "source": "maps/ProjectedChange_HottestDay.png",
         "default": true
-
       },{
-        "name": "Coldest Night",
+        "name": "Coldest Night of the Year",
         "source": "maps/ProjectedChange_ColdestNight.png"
       },{
-        "name": "Number of Days",
-        "source": "maps/ProjectedChange_DrySpell.png"
-      },{
-        "name": "Wettest Day",
+        "name": "Wettest Day of the Year",
         "source": "maps/ProjectedChange_WettestDay.png"
+      },{
+        "name": "Annual Longest Dry Spell",
+        "source": "maps/ProjectedChange_DrySpell.png"
       }
     ]
   }
