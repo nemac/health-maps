@@ -7,6 +7,8 @@
         "name": "Precipitation Change",
         "source": "maps/Health_Indicators_PrecipChange.png",
         "legend": "maps/Health_Indicators_PrecipChange_legend.png",
+        "alt": "Map of projected percent change in maximum five-day precipitation.",
+        "legend-alt": "Legend for the map of projected percent change in maximum five-day precipitation.",
         "default": true
       }
     ]
@@ -18,15 +20,21 @@
         "name": "Chickens Per Square Mile",
         "source": "maps/Broilers_inventory_sqmi_2012.png",
         "legend": "maps/Broilers_inventory_sqmi_2012_legend.png",
+        "alt": "Map of broilers and meat-type chickens per square mile from 2012.",
+        "legend-alt": "Legend for the map of broilers and meat-type chickens per square mile from 2012.",
         "default": true
       }, {
         "name": "Cattle Per Square Mile",
         "source": "maps/Cattle_inventory_sq_mi_2012.png",
-        "legend": "maps/Cattle_inventory_sq_mi_2012_legend.png"
+        "legend": "maps/Cattle_inventory_sq_mi_2012_legend.png",
+        "alt": "Map of cattle per square mile from 2012.",
+        "legend-alt": "Legend for the map of cattle per square mile from 2012."
       }, {
         "name": "Hogs Per Square Mile",
         "source": "maps/HogsPigs_number_sqmi_2012.png",
-        "legend": "maps/HogsPigs_number_sqmi_2012_legend.png"
+        "legend": "maps/HogsPigs_number_sqmi_2012_legend.png",
+        "alt": "Map of hogs and pigs per square mile from 2012.",
+        "legend-alt": "Legend for the map of hogs and pigs per square mile from 2012."
       }
     ]
   }

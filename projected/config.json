@@ -7,10 +7,12 @@
     "images": [{
         "name": "2021-2050",
         "source": "maps/ProjectedChange_2021-2050.png",
+        "alt": "Maps of the projected temperature and precipiation changes between 2021 and 2050",
         "default": true
       },{
         "name": "2041-2070",
-        "source": "maps/ProjectedChange_2041-2070.png"
+        "source": "maps/ProjectedChange_2041-2070.png",
+        "alt": "Maps of the projected temperature and precipiation changes between 2041 and 2070"
       }
     ]
   }

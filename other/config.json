@@ -7,16 +7,20 @@
     "images": [{
         "name": "Hottest Day of the Year",
         "source": "maps/ProjectedChange_HottestDay.png",
+        "alt": "Map of the projected temperature change for the hottest day of the year.",
         "default": true
       },{
         "name": "Coldest Night of the Year",
-        "source": "maps/ProjectedChange_ColdestNight.png"
+        "source": "maps/ProjectedChange_ColdestNight.png",
+        "alt": "Map of the projected temperature change for the coldest night of the year."
       },{
         "name": "Wettest Day of the Year",
-        "source": "maps/ProjectedChange_WettestDay.png"
+        "source": "maps/ProjectedChange_WettestDay.png",
+        "alt": "Map of the projected precipitation change for the wettest day of the year."
       },{
         "name": "Annual Longest Dry Spell",
-        "source": "maps/ProjectedChange_DrySpell.png"
+        "source": "maps/ProjectedChange_DrySpell.png",
+        "alt": "Map of the projected change in the number of days for the longest annual dry spell of the year."
       }
     ]
   }
