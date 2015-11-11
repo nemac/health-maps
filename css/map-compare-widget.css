@@ -38,6 +38,7 @@
     padding: 10px;
     background: #efefef;
     text-transform: uppercase;
+    font-size: 15px;
 }
 
 .nem-mcw-container form label:last-child {

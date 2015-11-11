@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Viewer Example</title>
+  <title>Livestock Example</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="scripts/vendor/skeleton.css" type="text/css" />
-  <link rel="stylesheet" href="scripts/map-compare-widget/map-compare-widget-min.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="css/map-compare-widget-min.css" type="text/css" media="screen" />
   <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
 </head>
 <body>
-  <div id="demo"></div>
-  <script src="scripts/vendor/jquery-2.1.4.min.js" type="text/javascript"></script>
-  <script src="scripts/vendor/jquery-ui.min.js" type="text/javascript"></script>
-  <script src="scripts/map-compare-widget/map-compare-widget-min.js" type="text/javascript"></script>
+  <div id="livestock-map"></div>
+  <script src="vendor/jquery-2.1.4.min.js" type="text/javascript"></script>
+  <script src="vendor/jquery-ui.min.js" type="text/javascript"></script>
+  <script src="js/map-compare-widget-min.js" type="text/javascript"></script>
   <script type="text/javascript">
   $(function() {
-    $('#demo').mapCompare({config: 'config.json'});
+    $('#livestock-map').mapCompare({config: 'config/livestock.json'});
   });
   </script>
 </body>
