@@ -3,7 +3,7 @@
   "type": "fade",
   "leftSelector": {
     "name": "Climate Indicator",
-    "slideLabel": "Farm Density",
+    "slideLabel": "Precipitation",
     "images": [{
         "name": "Precipitation Change",
         "source": "maps/livestock/Health_Indicators_PrecipChange.png",
