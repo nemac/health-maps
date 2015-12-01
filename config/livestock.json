@@ -3,6 +3,7 @@
   "type": "fade",
   "leftSelector": {
     "name": "Climate Indicator",
+    "slideLabel": "Farm Density",
     "images": [{
         "name": "Precipitation Change",
         "source": "maps/livestock/Health_Indicators_PrecipChange.png",
@@ -16,6 +17,7 @@
   "rightSelector": {
     "name": "Locations of Livestock and Projections of Heavy Precipitation",
     "type": "radio",
+    "slideLabel": "Livestock Density",
     "images": [{
         "name": "Chickens Per Square Mile",
         "source": "maps/livestock/Broilers_inventory_sqmi_2012.png",
