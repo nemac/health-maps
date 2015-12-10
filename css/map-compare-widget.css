@@ -20,6 +20,7 @@
 }
 
 .nem-mcw-container form {
+    text-align: center;
   margin-bottom: 10px;
 }
 
@@ -94,7 +95,7 @@
 }
 
 .nem-mcw-container .nem-mcw-button-half {
-    width: 49.4%;
+    width: 28%;
 }
 
 .nem-mcw-container .nem-mcw-button-third {
