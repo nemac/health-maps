@@ -1,5 +1,6 @@
 {
   "defaultSlidePosition": 0.4,
+  "slideIncrement": 0.01,
   "type": "fade",
   "leftSelector": {
     "name": "Climate Indicator",
