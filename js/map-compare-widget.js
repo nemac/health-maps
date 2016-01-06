@@ -174,7 +174,7 @@
       $selector.append($label);
 
       if (this['default']) {
-        $('input[name=sl][value="' + this['source'] + '"]').prop('checked', true);
+        $selector.find('input[name=sl][value="' + this['source'] + '"]').prop('checked', true);
         $label.addClass("on");
         $imageRef.attr('alt', this["alt"])
             .attr('title', this["alt"]);
@@ -190,7 +190,7 @@
     });
 
     $selector.on('change', function() {
-      var $elem = $("input[name='sl']:checked");
+      var $elem = $(this).find("input[name='sl']:checked");
       $imageRef.attr('src', $elem.val())
             .attr('alt', $elem.data("alt"))
             .attr('title', $elem.data("alt"));
