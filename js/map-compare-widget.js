@@ -169,7 +169,7 @@
                     .data('legend', this['legend'])
                     .data('legend-alt', this['legend-alt'])
                    );
-      $label.append($('<span class="label-body" />').text(this['name']));
+      $label.append($('<span class="label-body" />').html(this['name']));
 
       $selector.append($label);
 
@@ -246,7 +246,7 @@
     $.each(images, function() {
       $selector.append($('<option />')
                        .val(this['source'])
-                       .text(this['name'])
+                       .html(this['name'])
                        .data('alt', this['alt'])
                        .data('legend', this['legend'])
                        .data('legend-alt', this['legend-alt']));
