@@ -6,12 +6,12 @@
     "type": "radio",
     "images": [{
         "name": "Higher Emissions<br><span>(RCP8.5, NCAR/DOE CESM)</span>",
-        "source": "maps/emissions/Air_Temp-Ozone-Deaths-2030_RCP60_WEB.png",
+        "source": "maps/emissions/Air_Temp-Ozone-Deaths-2030_RCP85_WEB.png",
         "alt": "Maps of the projected changes in average daily maximum temperature, daily eight hours maximum ozone and excess ozone-related deaths caused by high emissions.",
         "default": true
       },{
         "name": "Moderate Emissions<br><span>(RCP6.0, NASA/GISS ModelE2-R)</span>",
-        "source": "maps/emissions/Air_Temp-Ozone-Deaths-2030_RCP85_WEB.png",
+        "source": "maps/emissions/Air_Temp-Ozone-Deaths-2030_RCP60_WEB.png",
         "alt": "Maps of the projected changes in average daily maximum temperature, daily eight hours maximum ozone and excess ozone-related deaths caused by moderate emissions."
       }
     ]
